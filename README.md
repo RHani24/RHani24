@@ -9,7 +9,7 @@
 - 💞️ I’m looking to expand my knowledge and engage with more programming languages
   
 - 📫 How to reach me hani_11_123@hotmail.com
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -25,3 +25,5 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
+
+---
